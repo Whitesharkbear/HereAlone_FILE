@@ -1,0 +1,12 @@
+@charset "EUC-KR";
+ *{text-align: center;}
+ .store{font-size: 50px; color: brown;}
+ #import{width: 300px; height: 52px; font-size: 30px; color: white; background-color: brown;}
+ .info{font-size: 30px; color: orange;}
+ #map{width: 500px; height: 500px;}
+ .time{font-size: 50px; color: orange;}
+ .read{font-size: 30px;}
+ #kakao{width: 30px; height: 30px;}
+ #writeinfo{font-style: oblique; text-decoration: none;}
+ .write1{width: 600px; height: 45px; font-size: 30px;}
+ .write2{width: 100px; height: 52px; font-size: 30px; color: white; background-color: orange;}

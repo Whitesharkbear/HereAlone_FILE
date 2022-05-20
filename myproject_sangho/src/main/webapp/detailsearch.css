@@ -1,0 +1,109 @@
+@charset "EUC-KR";
+	html{width: 100%; height: 100%; padding: 0; margin: 0;
+		box-sizing: border-box;     text-align: center;}
+	body{height: 100%; padding: 0; margin: 0;
+		box-sizing: border-box;
+		width: 1200px;
+         display: inline-block;}
+
+
+	.Log_Join {
+		position: relative;
+   		margin-top: 70px;
+   		margin-left: 1072px;
+    }
+    .main-pic2{
+		top: 30px;
+		display: inline-block;
+  		  margin-left: -500px;
+  		  position: absolute;
+    }
+    .main-pic1{
+
+    }
+	.search{
+		float:left;
+		font-size: 50px;
+		color: orange;
+		font-weight: bold;
+	}
+	.local{
+		float: left;
+		margin: 15px;
+		padding: 15px;
+		background: orange;
+		position: relative;
+		margin-left: 200px;
+	}
+	.store{
+		font-size: 40px;
+		color: brown;
+		left: 200px;
+	}
+	.final{
+		left: 200px;
+		top:90%;
+	}
+
+	.divComm{
+	    display: inline-block;
+ 		width: 100%;
+	}
+	.resultTitle{
+		width: 100%;
+		display: inline-block;
+		text-align: left;
+		font-weight: 600;
+	}
+
+	.resultOne{
+		margin-top: 20px;
+		float: left;
+		width: 400px;
+	}
+
+	.resultOne .resultStar{
+		width: 360px;
+	}
+
+	.resultOne .resultStar img{
+
+		width: 40px;
+		height: 40px;
+		float: left;
+	}
+
+	.resultOne .resultStar span{
+		font-size: 20px;
+		float: left;
+		margin-left: 20px;
+		margin-top: 8px;
+		color: rgb(243, 156, 18);
+	}
+	.resultOne .resultOneClick img{
+		width: 360px;
+
+	}
+	.resultOne .resultOneClick .resultOneTitle{
+		font-size: 16px;
+		color: rgb(64, 64, 64);
+		text-align: center;
+		line-height: 2.5em;
+		border-radius: 4px;
+		width: 359px;
+    	display: inline-block;
+		background-color: rgb(241, 195, 123);
+	}
+
+	.resultOne .resultOneClick .resultOneTag{
+		font-size: 16px;
+		color: rgb(64, 64, 64);
+		text-align: center;
+		line-height: 2.5em;
+		border-radius: 4px;
+		width: 359px;
+   		display: inline-block;
+		background-color: rgb(243, 156, 18);
+	}
+
+	
